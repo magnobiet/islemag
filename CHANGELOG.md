@@ -1,4 +1,30 @@
 
+### 1.1.2 - 13/01/2017
+**Changes:** 
+- Removed frontpage template and use the front-page.php file for the frontpage
+- Fixed small issue with child themes date in archive page
+
+### 1.1.1 - 30/12/2016
+**Changes:** 
+- Added grunt and fixed all generated errors
+- Update carousel library to fix issue with menu on mobile
+
+### 1.1.0 - 29/11/2016
+**Changes:** 
+- Reorganize customize upsells
+- Added hooks and filters for better use with child themes
+- Added grunt
+
+### 1.0.15 - 09/11/2016
+**Changes:** 
+- Fixed social icons not working on mobile devices
+- Fixed header banner spacing issue
+
+### 1.0.14 - 01/11/2016
+**Changes:** 
+- New option to disable each frontpage section
+- Redo the socials repeater box to better UI experience
+
 ### 1.0.12 - 22/08/2016
 **Changes:** 
 - Fixed spacing issues in posts and pages
